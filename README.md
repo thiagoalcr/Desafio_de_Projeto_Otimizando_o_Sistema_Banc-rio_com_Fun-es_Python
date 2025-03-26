@@ -1,2 +1,9 @@
-# Desafio_de_Projeto_Otimizando_o_Sistema_Banc-rio_com_Fun-es_Python
-Desafio de Projeto - Otimizando o Sistema Bancário com Funções Python
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> - Desafio de Projeto - Otimizando um Sistema Bancário com Funções Python
+Repositório criado para apresentar o desafio de projeto proposto para o bootcamp: Suzano - Python Developer, realizado pela plataforma Digital Innovation One (DIO).
+
+## :dart: Objetivo do projeto
+Realizar a otimização de um sistema bancário simples utilizando funções Python.
+
+## :computer: Tecnologias Utilizadas
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=VS-code&logoColor=white) 
+
