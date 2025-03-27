@@ -1,5 +1,3 @@
-
-
 def menu():
     menu = """
 
@@ -11,7 +9,7 @@ def menu():
 [n] Novo Usuário
 [q] Sair
 => """
-
+    
     return input(menu)
 
 def depositar(saldo, valor, extrato):
@@ -149,6 +147,5 @@ def main():
 
         else:
             print("Operação inválida, por favor selecione novamente a operação desejada.")
-
 
 main()
